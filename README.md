@@ -1,56 +1,29 @@
-# Hamza Rana - Personal Portfolio
+# PMW-day1: Personal Portfolio & 3D Reconstruction Research
 
-A sleek, dark-themed minimalist personal portfolio website built to showcase my projects, professional experience, and technical skills. Designed with a focus on modern aesthetics, clean typography, and responsive layouts.
+## 👋 Introduction
+Hello! I'm Hamza Rana, a BS Computer Science student (4th Semester) at FAST NUCES. I specialize in full-stack development, IT infrastructure, and I am passionate about Artificial Intelligence and its applications in preserving history.
 
-## 🚀 Features
+## 🏛️ PMW Track
+This repository was created as part of the **PreserveMy.World** initiative. Our track focuses on exploring **3D Reconstruction** techniques to digitize and preserve cultural heritage globally.
 
-- **Dark Minimalist UI**: A premium, high-contrast dark theme with frosted glass (blur) effects and subtle borders.
-- **Fully Responsive**: Optimized layouts using CSS Grid and Flexbox ensuring a seamless experience across desktop, tablet, and mobile devices.
-- **Scroll Animations**: Smooth fade-in animations on scroll using the Intersection Observer API for a sophisticated feel.
-- **Dynamic Projects Grid**: Masonry-style layout to cleanly present featured projects like LeadMap and EduIG-Pipeline.
-- **No Dependencies**: Built entirely with Vanilla web technologies for maximum performance and zero overhead.
+## 🚀 What I Built Today
+Today, I built a complete, fully responsive personal portfolio website from scratch using vanilla HTML5, CSS3, and JavaScript. It features a premium dark minimalist design, smooth scroll animations, and showcases my latest technical projects (including my 3D reconstruction plans). I also researched 3D reconstruction techniques, specifically Gaussian Splatting, and drafted my first blog post about it!
 
-## 🛠️ Tech Stack
-
-- **HTML5**: Semantic markup for accessible structure.
-- **CSS3**: Custom properties (CSS Variables), modern layout techniques (Grid/Flexbox), and responsive media queries.
-- **Vanilla JavaScript**: Lightweight interactivity and scroll-based animations.
-
-## 💻 Running Locally
-
-Since this project uses no external frameworks or build tools, running it is incredibly simple:
-
-1. Clone this repository:
+## 💻 How to Open the Portfolio
+1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/ranahamza16/portfolio.git
+   git clone https://github.com/ranahamza16/PMW-day1.git
    ```
-2. Navigate into the directory:
+2. Navigate into the folder:
    ```bash
-   cd portfolio
+   cd PMW-day1
    ```
-3. Double-click the `index.html` file to open it directly in your default web browser.
+3. Double-click the `index.html` file to open it directly in your default web browser. No complex build tools or servers required!
 
-*(Optional)* You can also run it using a local development server like VS Code's Live Server extension for hot reloading.
-
-## 📁 Project Structure
-
-```
-├── index.html       # Main HTML structure and content
-├── style.css        # All styling, theme variables, and responsive rules
-├── script.js        # Intersection Observer and navbar scroll logic
-├── profile.jpeg     # Hero section profile photo
-├── leadmap.jpg      # Project cover image
-├── eduig.jfif       # Project cover image
-└── resume.pdf       # Downloadable resume file
-```
-
-## 📬 Let's Connect
-
-Feel free to reach out for collaborations or just a friendly chat!
-
-- **Email**: ranahamxa098@gmail.com
-- **LinkedIn**: [linkedin.com/in/hamza-rana16](https://linkedin.com/in/hamza-rana16)
-- **GitHub**: [github.com/ranahamza16](https://github.com/ranahamza16)
-
----
-*Crafted by Hamza Rana — BS Computer Science Student at FAST NUCES.*
+## ✅ Day 1 Checklist
+- [x] **Set up GitHub**: Profile updated with real name, bio, and picture.
+- [x] **Create PMW-day1**: Repository created and configured.
+- [x] **Build index.html**: Clean, responsive portfolio page built.
+- [x] **Make the README stand out**: Clean structure with checklist added!
+- [x] **Start your 3D reconstruction learning post**: Drafted and ready to be published.
+- [x] **Include experiment evidence**: Planned an experiment using a Gaussian Splatting Colab notebook for this week.
