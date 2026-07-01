@@ -241,14 +241,14 @@
                 </div>
             </div>
             
-            <form class="contact-form" onsubmit="event.preventDefault();">
+            <form class="contact-form" action="https://formsubmit.co/ranahamzah098@gmail.com" method="POST">
                 <h4>Send a Message</h4>
                 <div class="form-row">
-                    <input type="text" placeholder="Your Name" required>
-                    <input type="email" placeholder="Your Email" required>
+                    <input type="text" name="name" placeholder="Your Name" required>
+                    <input type="email" name="email" placeholder="Your Email" required>
                 </div>
-                <input type="text" placeholder="Subject" required>
-                <textarea rows="5" placeholder="Your Message" required></textarea>
+                <input type="text" name="subject" placeholder="Subject" required>
+                <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
                 <button type="submit" class="btn btn-primary submit-btn">
                     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
                     Send Message
